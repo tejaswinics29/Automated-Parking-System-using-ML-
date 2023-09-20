@@ -1,2 +1,3 @@
-# Automated-Parking-System-using-ML-
-Automated parking sysytem using ml
+# Automated-Parking-System-using-ML
+
+An Attempt to increase the detection accuracy has been made in this project. 
